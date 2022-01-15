@@ -20,9 +20,9 @@ My config consist of:
 -pulse
 
 Primary Screen: 
-[](Primary_Screen.jpg)
+![Annoyed](https://github.com/PFCorzo/DotFiles/blob/main/Primary_Screen.jpg)
 
 Secondary Screen:
-[](Second_Screen.jpg)
+![Annoyed2](https://github.com/PFCorzo/DotFiles/blob/main/Second_Screen.jpg)
 
 
