@@ -1,0 +1,111 @@
+{
+   "checksum": "adf3a05cbc84564999601f6fed00331b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13285273573274139",
+            "guid": "cc3ed45b-88cb-417a-b7a9-17a60412111e",
+            "id": "5",
+            "name": "Arch Wiki",
+            "type": "url",
+            "url": "https://archlinux.org/"
+         }, {
+            "date_added": "13283962681075801",
+            "guid": "15502de5-14e6-4be6-a2b6-90d8ea6affb7",
+            "id": "6",
+            "name": "Slack ",
+            "type": "url",
+            "url": "https://app.slack.com/client/T02AJBEAMQW/C02BFU2Q4FJ"
+         }, {
+            "date_added": "13284000224759147",
+            "guid": "0c34cef4-5695-4253-abc5-a3e2be85e507",
+            "id": "7",
+            "name": "WhatsApp",
+            "type": "url",
+            "url": "https://web.whatsapp.com/"
+         }, {
+            "date_added": "13284571477927313",
+            "guid": "e6c36ec2-f91c-4db4-b34e-c96a849c55b5",
+            "id": "8",
+            "name": "DockerHub",
+            "type": "url",
+            "url": "https://hub.docker.com/"
+         }, {
+            "date_added": "13284614225755463",
+            "guid": "97b6b759-e24d-487f-b4ec-8a569c047d1c",
+            "id": "9",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13284692003646233",
+            "guid": "7d0feb7d-c55f-4ea4-a184-5642bb8ac1d2",
+            "id": "10",
+            "name": "Azure DevOps",
+            "type": "url",
+            "url": "https://dev.azure.com/CryptoAvenue/"
+         }, {
+            "date_added": "13284692101757884",
+            "guid": "951a1b81-172f-413b-bb17-53498f2e1681",
+            "id": "11",
+            "name": "AWS Console",
+            "type": "url",
+            "url": "https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-1"
+         }, {
+            "date_added": "13284614676823339",
+            "guid": "e92b5324-1f3a-4b51-ad1e-b535d506e50d",
+            "id": "12",
+            "name": "UM Fintech",
+            "type": "url",
+            "url": "https://bootcampspot.com/"
+         }, {
+            "date_added": "13285480487445007",
+            "guid": "97c08ecb-f312-4867-8179-74408041e865",
+            "id": "13",
+            "name": "Is there a way to close Alacritty via a keyboard shortcut? : Alacritty",
+            "type": "url",
+            "url": "https://www.reddit.com/r/Alacritty/comments/gyrchm/is_there_a_way_to_close_alacritty_via_a_keyboard/"
+         }, {
+            "date_added": "13285656536496789",
+            "guid": "75260854-fbe6-43e3-b429-944739d9d872",
+            "id": "14",
+            "name": "CS50: Introduction to Computer Science | Harvard University",
+            "type": "url",
+            "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"
+         }, {
+            "date_added": "13286428712571725",
+            "guid": "35f38bd4-a8b8-435f-82b2-8455e2e60607",
+            "id": "15",
+            "name": "Docker For Data Scientists - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=0qG_0CPQhpg"
+         } ],
+         "date_added": "13286674257491716",
+         "date_modified": "13286428712571725",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13286674257491717",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13286674257491718",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJgOR4lpLVBQAhgOR4lpLVBQAiFAk+DBymktUFABANGU2+gbDnqBT6MhgKFggCEbgOKKaS1QUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgmA5HiWktUFACGA5HiWktUFADIYChYIAhG4DiimktUFABgAIQAAAAAAAAAAIABIi4+p1uUvcJmFqdblLxIAIAEqGFZ0RC94SzlyWlNWMU5EYzdOTFQwQlE9PRLsAQgPEucBChw3a2pwZnlEWk5Gem9CSG9vd1lIeFRsbnQ4VFk9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXg1RXZ6NjY4V3ZZMURZdkUvMytOT0dWVHh5NEtQMm9MenpYcENHQkduSzVpQlJ4Zk9ZTDFpK2tBdG9udldsbHE1TkkydFlnPT0YACACKAIwvZjwsKqy9QI4/eya4eQvQMqHqdblL0ocVFNSMW5uQ3RYTnViNXQwZFNhMWxubG9VdkdrPVofIh3+RzRrYXBkTFRtOWRIcjdYbTlWdUMxOEZOaHVFPWU4+TkzEuwBCA4S5wEKHEkvcUdCczVMNjJVRFN0cjRyZVBzUGVwemJFMD0SZlo6QURxdEFaeXQ2R01OcERmOE9LblVKb2JCcnpJeG8ybU1nTkJsdVBwczZwd3hlZEVtaTZQbzQ3NHVFZ2RzeUplQUVPNWttVUdWSm1QTmYzaWhVWVRMeUh1algrV0dRU2wzVUE9PRgAIAIoAjC9mPCwqrL1Ajix+4Dx4S9Ayoep1uUvShxTRDI5OFlwWlRJczNpdkRrNWdrcjNtS2E1M2c9Wh8iHf0xeXVQdlgvSHg1LzlnNTd0bWxoeEhzSU15Q0k9ZSZe9N0S7AEIDRLnAQocbHE0eHlxYkloNkVTTkZvM3FtY0VzbStlckUwPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4VTkzNGdhUDZVN1o0cG16UjRqUlFsaFhqY0Q0VTNQbTFpRVd6T0IybXhReldjUFBmb0FJNG4zM1F4eHBrTzgrclVDS2V3Zz09GAAgAigCML2Y8LCqsvUCOJbkh53hL0DJh6nW5S9KHEFyU3lOTk1lQ2hoVFhaYmtaRTI3NjVIb1M4RT1aHyId+0VsOHVhblZHeE5NK0ZlRmwzc0NLTE1qMmZFND1ldtEJAhLsAQgMEucBChxUZFdBZ1lkckhuRy9hMU16V0RQYUlOZXN6ME09EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhjVlpBYlNpVlIxWlFFR1hjcXpBZ2huelFHNHBGSFNsS3BrOXZUcFlSR0lCZ243SUJpMkJDbjN0MkYzTk1iM21hRGhvN2VBPT0YACAAKAAwrO+rqZ6P9QI41/KagN4vQNfymoDeL0ocTnFPY1ZWR2NuUUtiTllEdlpNMnlDV2I3SnQ4PVofIh32QXdqT1hGeUVLeWpCSWpCUlROSWMxWDlKQUw4PWUAAAAAEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeXpiOWJTTjdUYW9LWThFUXVEQkZaWDFqNXlRTTVTZmQzNGdjM2xHaXRlUy9mZE95S050eXowUllmN3BMWExEeDNIZlFqZE9lejBwek52a0ZabHkwTzFSWUx1ZWc9PRgAIAAoADD2o9GwqrL1AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEusBCAYS5gEKHE4xaFhjQnIxdWQxZFNlSFZ4YlNkV1lzaGVzdz0SZlo6QURxdEFaeXQ2R01OcERmOE9LblVKb2JCcnpJeDN4QklFeHlkcktpMHZzaVRORTdGNWlOTTQyTyswS2tvV0tuWnc3TWgwVnBvTDBsNHE5S0Z0QmxJUWp3RkljeStVdzJzSWc9PRgAIAIoAjC9mPCwqrL1Ajj0najJ2y9Ax4ep1uUvShw2ZUxRWHdjTU9qNjd3TG9qcWdRYnk4aGV3RzA9Wh4iHGJiSGRkdS8wYkRVR3BHTjd3YStlNlk0aVZubz1lAIuqUxLsAQgLEucBChwyQTRIUkdMTzJRSjBaeGo5ZmtUWElCZzRMY1k9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhIOTdDLzJQQVpaWjZpT3hOWjgyQjlNemR5TDIwY3E3cFh6THh1NDFjUkoydmdQb1hoblRyNmFpYVo3Lzd6R1FPOE1UWDV3PT0YACACKAIwvZjwsKqy9QI4/sSQpd4vQMmHqdblL0ocQnA2YlpDaTlVemN4U3lwUU0xcTA3Mlc3Y1ZRPVofIh3zWXRYaU5TY2toVVM5QVE0d1haNmZ5akR2VklVPWWbSKBWEuwBCAoS5wEKHElxSDg1N2NhelROM3pVb0lvTFgvM05LbjFwWT0SZlo6QURxdEFaeXQ2R01OcERmOE9LblVKb2JCcnpJeGxTQThXd2x0REdUeHFmZDUyS2xhd0h6K2xiVmdRdUtrRWNCY05pR1llSjVoc2FDaEV1T1EySkFna0ZabGxvLy9KN05wZWc9PRgAIAIoAjC9mPCwqrL1Aji+xoql3i9AyIep1uUvShx2WklTbG9hWTRRWHJDUjB3MmYyMDRFZEl4YVU9Wh8iHfE4RTR6SWpKMGwvbVJzMUJWR2Z1ODQ2a0prL2c9ZeptC98S7AEICRLnAQocZi9VT04zbzd0SjlXaE9SVDNkMjY2NGNFRExjPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4RmRYY1pjNUZna2NqVjFyNmpjTlNyWGFzbEFPMmxLd1ZZSmtRQzhMZXc5cHVTbWRMM05meERoMnI0TjVuQlZVQVlTK1JyUT09GAAgAigCML2Y8LCqsvUCONuu///dL0DIh6nW5S9KHDZoeGw3M3RSNERUWC9XMTZ4c1J4SUIxNG96bz1aHyId7FBGMldqQTBUbGd1czVUTFVZQ2tnY3pld3hWYz1lKNDhqRLrAQgFEuYBChw1SC9ZazFBU0kwbFk3bWdCVlBrZURkcmQ1SUU9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhlT3JIYXdPRThobmlnTzFJam56eWpEMWtpS3ZzSVJlSDl5SFE0RjJBcHN6RzBuc1p1V3ZCV1VzWXhvV25Rd2c0ck1kZDRRPT0YACACKAIwvZjwsKqy9QI4mt+yuuAvQMeHqdblL0ocY24xcTJlb045Vkk1eGlOWU4vdHFwK21jQlh3PVoeIhxLSk5mYTgwbXZBb1hCS1p1RWJDTDArUFBGSzQ9ZUthCrsS7AEICBLnAQocUzl5Z0dGTWUwcmxUcHNwY2Q2T3g2QjFlUDNrPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4VFJSblVaS0QwRGJzYW8xY2hnQzJrcTY0eGRqS2hGc3ZYSU1FNElvLzIzYjYvQmxWWFpMUndHcWJsNGVyZGc0Y3E1Sy9XUT09GAAgAigCML2Y8LCqsvUCOKifzuvdL0DHh6nW5S9KHDd1ZUs3My95ajlRSjF0VGdoK2JIT1ZFd1ZCYz1aHyId2ERNTm1haEczY2VvWW9yTURNSnlMQlFqWktCOD1lumlwqRLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhiU0R2dDIvaW95RHBSY2dNRVhaclk5Yk5rUkp6dFB0dEVoNUMzdFdVRTJqOWZ3Z0ViekxLTTk2c0FXRU91ZU5aYmRMS0I5VkdpQUZhZTU5RURXU3dQSG55SUVRPT0YACAAKAAw9qPRsKqy9QI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLsAQgHEucBChxvbWR4UitCanMzd29Oc0prb2tqQzk2bWNFNFE9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhFNC94U0pvQXJLcXk4bXNUY3FDYmlpRURCeFpaY25tVkF6am5HTjFGQ2JBTFVSVW1rdGt4emtPVlpLeUlUdUJLaERlNXBRPT0YACACKAIwvZjwsKqy9QI4+Nub29svQMeHqdblL0ocMEliL09jNC9GdXk5NDRsL3FKUlVTQnZhR0djPVofIh2xR0o2R2VHbWtxb0dwOUt4aUt0T05PR0M2OXdRPWU2WyS5EqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeDIweTFTRUVjLzROb1V2T0dEL3FBNmYrOWp0S0E0Nk5jWmplNlF0Rzd2ekgzcWw0R2UzVUJWenJXVUF0VzBJcXRqUFNsbxgAIAAoADD2o9GwqrL1AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAIOCPqdblLzAA",
+   "version": 1
+}

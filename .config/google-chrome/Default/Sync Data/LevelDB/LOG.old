@@ -1,0 +1,6 @@
+2022/01/14-21:36:50.614 29a9 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/01/14-21:36:50.614 29a9 Recovering log #22
+2022/01/14-21:36:50.614 29a9 Reusing old log /home/pfcorzo/.config/google-chrome/Default/Sync Data/LevelDB/000022.log 
+2022/01/14-21:42:31.582 2f50 Level-0 table #26: started
+2022/01/14-21:42:31.590 2f50 Level-0 table #26: 111719 bytes OK
+2022/01/14-21:42:31.591 2f50 Delete type=0 #22

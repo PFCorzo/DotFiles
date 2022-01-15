@@ -1,0 +1,21 @@
+{
+   "browser_action": {
+      "default_icon": "icon.png"
+   },
+   "content_scripts": [ {
+      "js": [ "jquery-3.5.0.js", "content.js" ],
+      "matches": [ "https://podcasts.google.com/*", "http://podcasts.google.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "icons": {
+      "128": "image128.png",
+      "16": "image16.png",
+      "48": "image48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsct8eqUjmtrLWeyPyE1FGOktbppUWadIbb2a2KlrA/tFE0rSzArWg3oaBpmGgSd0I7+o2MampMy0gJ31Yew1dBfDn72eysGKSzGEmdlaR5yd0lpNCMyPNackJ5tXzoJCPksx1stdL2OzQgZ1Bikzo8zo/iXPkhbIbF4sBvmEaKoLfplj2Tds7W7M+CVMXjEBf+CP1U4BaTVPatzBltIpg/pu6H9b1DMGBlOtsm5qe8/bBd4u3Yhdauieyc6HmZISnZ4tYqJz1Pm6foxM742tpmU2E298VhWUJSkGjCOnMOSOOeXuSc6qnjJC1LUKdpqC20aV1v/DPVECFHd+kG5SoQIDAQAB",
+   "manifest_version": 2,
+   "name": "Google Podcast Dark Mode",
+   "short_name": "Google Podcast Dark Mode",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}
