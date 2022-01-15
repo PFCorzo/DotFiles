@@ -1,6 +1,6 @@
 # DotFiles 
 
-## My DotFiles(.config) for my Asus Zephyrus Duo Pro. Accidently "rm -r" all my files and had to reconfigure.
+#### My DotFiles(.config) for my Asus Zephyrus Duo Pro. Accidently "rm -r" all my files and had to reconfigure.
 
 My config consist of:
 -Alacritty
