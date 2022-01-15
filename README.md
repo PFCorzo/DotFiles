@@ -19,10 +19,10 @@ My config consist of:
 -gtk-3.0
 -pulse
 
-Primary Screen: 
+### Primary Screen: 
 ![Annoyed](https://github.com/PFCorzo/DotFiles/blob/main/Primary_Screen.jpg)
 
-Secondary Screen:
+### Secondary Screen:
 ![Annoyed2](https://github.com/PFCorzo/DotFiles/blob/main/Second_Screen.jpg)
 
 
