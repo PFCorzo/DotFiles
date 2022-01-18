@@ -1,0 +1,6 @@
+2022/01/15-18:08:36.267 d589 Creating DB /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_web-cdn.pandora.com_0.indexeddb.leveldb since it was missing.
+2022/01/15-18:08:36.270 d589 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_web-cdn.pandora.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/15-18:08:42.836 d5ea Level-0 table #5: started
+2022/01/15-18:08:42.837 d5ea Level-0 table #5: 389 bytes OK
+2022/01/15-18:08:42.839 d5ea Delete type=0 #3
+2022/01/15-18:08:42.839 d5ea Manual compaction at level-0 from (begin) .. (end); will stop at (end)

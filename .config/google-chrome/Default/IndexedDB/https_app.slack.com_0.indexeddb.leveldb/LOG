@@ -1,0 +1,7 @@
+2022/01/17-15:51:44.954 2fdc Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/17-15:51:44.954 2fdc Recovering log #3
+2022/01/17-15:51:44.955 2fdc Reusing old log /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_app.slack.com_0.indexeddb.leveldb/000003.log 
+2022/01/17-15:52:00.078 2e7e Level-0 table #5: started
+2022/01/17-15:52:00.080 2e7e Level-0 table #5: 9651 bytes OK
+2022/01/17-15:52:00.081 2e7e Delete type=0 #3
+2022/01/17-15:52:00.081 2e7e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

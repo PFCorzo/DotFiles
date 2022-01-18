@@ -1,0 +1,18 @@
+2022/01/16-01:50:56.346 450d Creating DB /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_riptutorial.com_0.indexeddb.leveldb since it was missing.
+2022/01/16-01:50:56.349 450d Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_riptutorial.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/16-01:50:56.502 4506 Level-0 table #5: started
+2022/01/16-01:50:56.504 4506 Level-0 table #5: 576 bytes OK
+2022/01/16-01:50:56.505 4506 Delete type=0 #3
+2022/01/16-01:50:56.505 4506 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/16-01:50:58.513 449b Level-0 table #7: started
+2022/01/16-01:50:58.514 449b Level-0 table #7: 256 bytes OK
+2022/01/16-01:50:58.516 449b Delete type=0 #4
+2022/01/16-01:50:58.516 449b Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/16-01:50:58.516 449b Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0
+2022/01/16-01:50:58.516 449b Compacting 1@1 + 1@2 files
+2022/01/16-01:50:58.518 449b Generated table #8@1: 6 keys, 253 bytes
+2022/01/16-01:50:58.518 449b Compacted 1@1 + 1@2 files => 253 bytes
+2022/01/16-01:50:58.519 449b compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/16-01:50:58.519 449b Delete type=2 #7
+2022/01/16-01:50:58.519 449b Delete type=2 #5
+2022/01/16-01:50:58.519 449b Manual compaction at level-1 from '\x00\x00\x00\x002\x02\x01\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 21 : 0 .. (end); will stop at (end)

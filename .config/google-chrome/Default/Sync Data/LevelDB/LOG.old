@@ -1,0 +1,39 @@
+2022/01/17-15:07:50.146 1822 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/01/17-15:07:50.147 1822 Recovering log #213
+2022/01/17-15:07:50.147 1822 Reusing old log /home/pfcorzo/.config/google-chrome/Default/Sync Data/LevelDB/000213.log 
+2022/01/17-15:18:22.722 1e4d Level-0 table #217: started
+2022/01/17-15:18:22.732 1e4d Level-0 table #217: 94662 bytes OK
+2022/01/17-15:18:22.734 1e4d Delete type=0 #213
+2022/01/17-15:18:22.735 1e4d Compacting 4@0 + 1@1 files
+2022/01/17-15:18:22.743 1e4d Generated table #218@0: 84 keys, 10861 bytes
+2022/01/17-15:18:22.743 1e4d Compacted 4@0 + 1@1 files => 10861 bytes
+2022/01/17-15:18:22.744 1e4d compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/17-15:18:22.744 1e4d Delete type=2 #214
+2022/01/17-15:18:22.744 1e4d Delete type=2 #217
+2022/01/17-15:18:22.744 1e4d Delete type=2 #207
+2022/01/17-15:18:22.744 1e4d Delete type=2 #211
+2022/01/17-15:18:22.744 1e4d Delete type=2 #209
+2022/01/17-15:48:50.459 2e47 Level-0 table #220: started
+2022/01/17-15:48:50.468 2e47 Level-0 table #220: 96843 bytes OK
+2022/01/17-15:48:50.470 2e47 Delete type=0 #216
+2022/01/17-17:28:58.586 3e57 Level-0 table #222: started
+2022/01/17-17:28:58.594 3e57 Level-0 table #222: 100309 bytes OK
+2022/01/17-17:28:58.596 3e57 Delete type=0 #219
+2022/01/17-17:54:38.483 792d Level-0 table #224: started
+2022/01/17-17:54:38.487 792d Level-0 table #224: 158980 bytes OK
+2022/01/17-17:54:38.488 792d Delete type=0 #221
+2022/01/17-20:35:06.971 c11a Level-0 table #226: started
+2022/01/17-20:35:06.980 c11a Level-0 table #226: 124296 bytes OK
+2022/01/17-20:35:06.982 c11a Delete type=0 #223
+2022/01/17-20:35:06.982 c11a Compacting 4@0 + 1@1 files
+2022/01/17-20:35:06.987 c11a Generated table #227@0: 84 keys, 19396 bytes
+2022/01/17-20:35:06.987 c11a Compacted 4@0 + 1@1 files => 19396 bytes
+2022/01/17-20:35:06.988 c11a compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/01/17-20:35:06.988 c11a Delete type=2 #220
+2022/01/17-20:35:06.989 c11a Delete type=2 #224
+2022/01/17-20:35:06.989 c11a Delete type=2 #226
+2022/01/17-20:35:06.989 c11a Delete type=2 #222
+2022/01/17-20:35:06.989 c11a Delete type=2 #218
+2022/01/17-21:02:56.637 c61b Level-0 table #229: started
+2022/01/17-21:02:56.645 c61b Level-0 table #229: 136017 bytes OK
+2022/01/17-21:02:56.647 c61b Delete type=0 #225

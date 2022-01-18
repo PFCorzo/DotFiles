@@ -1,0 +1,9 @@
+2022/01/18-01:28:11.234 3 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2022/01/18-01:28:11.235 3 Recovering log #412
+2022/01/18-01:28:11.235 3 Reusing old log /home/pfcorzo/.config/google-chrome/Default/Local Storage/leveldb/000412.log 
+2022/01/18-01:38:16.580 3 Level-0 table #416: started
+2022/01/18-01:38:16.586 3 Level-0 table #416: 20862 bytes OK
+2022/01/18-01:38:16.588 3 Delete type=0 #412
+2022/01/18-01:55:15.932 14 Level-0 table #418: started
+2022/01/18-01:55:15.941 14 Level-0 table #418: 22371 bytes OK
+2022/01/18-01:55:15.945 14 Delete type=0 #415

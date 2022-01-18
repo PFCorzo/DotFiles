@@ -1,0 +1,8 @@
+2022/01/15-09:17:11.350 1c5b Creating DB /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb since it was missing.
+2022/01/15-09:17:11.354 1c5b Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_www.dropbox.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/15-09:19:26.087 1c80 Level-0 table #5: started
+2022/01/15-09:19:26.100 1c80 Level-0 table #5: 1065666 bytes OK
+2022/01/15-09:19:26.102 1c80 Delete type=0 #3
+2022/01/15-10:14:35.673 4e8a Level-0 table #7: started
+2022/01/15-10:14:35.689 4e8a Level-0 table #7: 1042897 bytes OK
+2022/01/15-10:14:35.691 4e8a Delete type=0 #4

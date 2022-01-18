@@ -1,0 +1,6 @@
+2022/01/17-20:37:06.012 c0a8 Creating DB /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_efinancemanagement.com_0.indexeddb.leveldb since it was missing.
+2022/01/17-20:37:06.020 c0a8 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_efinancemanagement.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/17-20:37:10.639 c0a8 Level-0 table #5: started
+2022/01/17-20:37:10.640 c0a8 Level-0 table #5: 395 bytes OK
+2022/01/17-20:37:10.642 c0a8 Delete type=0 #3
+2022/01/17-20:37:10.642 c0a8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

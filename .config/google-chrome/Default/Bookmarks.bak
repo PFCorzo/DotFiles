@@ -1,0 +1,140 @@
+{
+   "checksum": "b712a7f69f67fe4f76f49f3fa0b27a55",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13285273573274139",
+            "guid": "cc3ed45b-88cb-417a-b7a9-17a60412111e",
+            "id": "5",
+            "name": "Arch Wiki",
+            "type": "url",
+            "url": "https://archlinux.org/"
+         }, {
+            "date_added": "13286698896917894",
+            "guid": "e119a916-66d5-472b-be01-38eddb2da971",
+            "id": "18",
+            "name": "Python",
+            "type": "url",
+            "url": "https://www.python.org/"
+         }, {
+            "date_added": "13286698977610774",
+            "guid": "984fb2e6-8395-432c-993b-1aa25015950b",
+            "id": "19",
+            "name": "C++",
+            "type": "url",
+            "url": "https://isocpp.org/"
+         }, {
+            "date_added": "13286699039089237",
+            "guid": "86c81322-020f-4981-a7b7-9b274ab1286e",
+            "id": "20",
+            "name": "React Native",
+            "type": "url",
+            "url": "https://reactnative.dev/"
+         }, {
+            "date_added": "13284614225755463",
+            "guid": "97b6b759-e24d-487f-b4ec-8a569c047d1c",
+            "id": "9",
+            "name": "GitHub",
+            "type": "url",
+            "url": "https://github.com/"
+         }, {
+            "date_added": "13284571477927313",
+            "guid": "e6c36ec2-f91c-4db4-b34e-c96a849c55b5",
+            "id": "8",
+            "name": "DockerHub",
+            "type": "url",
+            "url": "https://hub.docker.com/"
+         }, {
+            "date_added": "13284692101757884",
+            "guid": "951a1b81-172f-413b-bb17-53498f2e1681",
+            "id": "11",
+            "name": "AWS Console",
+            "type": "url",
+            "url": "https://console.aws.amazon.com/console/home?nc2=h_ct&src=header-signin&region=us-east-1"
+         }, {
+            "date_added": "13284692003646233",
+            "guid": "7d0feb7d-c55f-4ea4-a184-5642bb8ac1d2",
+            "id": "10",
+            "name": "Azure DevOps",
+            "type": "url",
+            "url": "https://dev.azure.com/CryptoAvenue/"
+         }, {
+            "children": [ {
+               "date_added": "13285480487445007",
+               "guid": "97c08ecb-f312-4867-8179-74408041e865",
+               "id": "13",
+               "name": "Is there a way to close Alacritty via a keyboard shortcut? : Alacritty",
+               "type": "url",
+               "url": "https://www.reddit.com/r/Alacritty/comments/gyrchm/is_there_a_way_to_close_alacritty_via_a_keyboard/"
+            }, {
+               "date_added": "13285656536496789",
+               "guid": "75260854-fbe6-43e3-b429-944739d9d872",
+               "id": "14",
+               "name": "CS50: Introduction to Computer Science | Harvard University",
+               "type": "url",
+               "url": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"
+            }, {
+               "date_added": "13286428712571725",
+               "guid": "35f38bd4-a8b8-435f-82b2-8455e2e60607",
+               "id": "15",
+               "name": "Docker For Data Scientists - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=0qG_0CPQhpg"
+            }, {
+               "date_added": "13284614676823339",
+               "guid": "e92b5324-1f3a-4b51-ad1e-b535d506e50d",
+               "id": "12",
+               "name": "UM Fintech",
+               "type": "url",
+               "url": "https://bootcampspot.com/"
+            }, {
+               "date_added": "13283962681075801",
+               "guid": "15502de5-14e6-4be6-a2b6-90d8ea6affb7",
+               "id": "6",
+               "name": "Slack ",
+               "type": "url",
+               "url": "https://app.slack.com/client/T02AJBEAMQW/C02BFU2Q4FJ"
+            }, {
+               "date_added": "13284000224759147",
+               "guid": "0c34cef4-5695-4253-abc5-a3e2be85e507",
+               "id": "7",
+               "name": "WhatsApp",
+               "type": "url",
+               "url": "https://web.whatsapp.com/"
+            } ],
+            "date_added": "13286698801085128",
+            "date_modified": "13286698977610774",
+            "guid": "8589aecc-39ee-4311-b1fe-e47d0896a840",
+            "id": "17",
+            "name": "Most Popular",
+            "type": "folder"
+         } ],
+         "date_added": "13286674257491716",
+         "date_modified": "13286699112931516",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13286674257491717",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13286674257491718",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CrABCo8BCIiBAhKIARJ2CAISOAoGCgJibRABEDMaEgmAUvAno9UFACGAUvAno9UFADIYChYIAhHK9ZQ4o9UFABgAIQAAAAAAAAAAEjgKBgoCYmQQABAzGhIJgFLwJ6PVBQAhgFLwJ6PVBQAyGAoWCAIRyvWUOKPVBQAYACEAAAAAAAAAACAASKGuofjlL3DD2+zx5S8SACABKhhWdEQveEs5clpTVjFORGM3TkxUMEJRPT0SqwEIARKmAQoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRJOWjpBRHF0QVp4MjB5MVNFRWMvNE5vVXZPR0QvcUE2Zis5anRLQTQ2TmNaamU2UXRHN3Z6SDNxbDRHZTNVQlZ6cldVQXRXMElxdGpQU2xvGAAgACgAMPaj0bCqsvUCOABAAEocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAAS7AEIBxLnAQocb21keFIrQmpzM3dvTnNKa29rakM5Nm1jRTRRPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4RTQveFNKb0FyS3F5OG1zVGNxQ2JpaUVEQnhaWmNubVZBempuR04xRkNiQUxVUlVta3RreHprT1ZaS3lJVHVCS2hEZTVwUT09GAAgFygXMMGInq+ZtPUCOPjbm9vbL0C2wfT05S9KHDZVWjlQOUhRSWtnN1B4clQwdVB1ZkFQNmxPTT1aHyId9WZZRjJ0Z052Ty9iR1dWaTR2NFhka2xXLzM0OD1lFqbW1BLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnhiU0R2dDIvaW95RHBSY2dNRVhaclk5Yk5rUkp6dFB0dEVoNUMzdFdVRTJqOWZ3Z0ViekxLTTk2c0FXRU91ZU5aYmRMS0I5VkdpQUZhZTU5RURXU3dQSG55SUVRPT0YACAAKAAw9qPRsKqy9QI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLsAQgFEucBChw1SC9ZazFBU0kwbFk3bWdCVlBrZURkcmQ1SUU9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhlT3JIYXdPRThobmlnTzFJam56eWpEMWtpS3ZzSVJlSDl5SFE0RjJBcHN6RzBuc1p1V3ZCV1VzWXhvV25Rd2c0ck1kZDRRPT0YACAFKAUwjMiq0Iaz9QI4mt+yuuAvQNmmkOLlL0oceFRJYXpoTXYrb0V4V25hMXQ0RXRQVTlxZTJZPVofIh0JUXFXNlNBUUxEUWtmaG1XSDR2RTAwTWhsZC9ZPWVLYQq7EuwBCAgS5wEKHFM5eWdHRk1lMHJsVHBzcGNkNk94NkIxZVAzaz0SZlo6QURxdEFaeXQ2R01OcERmOE9LblVKb2JCcnpJeFRSUm5VWktEMERic2FvMWNoZ0Mya3E2NHhkaktoRnN2WElNRTRJby8yM2I2L0JsVlhaTFJ3R3FibDRlcmRnNGNxNUsvV1E9PRgAIAUoBTCDqJnhhrP1Ajion87r3S9A/rqS4uUvShw3YVdObUpXWW1IeXdNQnVnV1hHSU9ObXplc1E9Wh8iHS5RMzlDWDFLQVJSRmVwUDFzcDZWTlpYVVhVSWM9ZbppcKkS7AEICRLnAQocZi9VT04zbzd0SjlXaE9SVDNkMjY2NGNFRExjPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4RmRYY1pjNUZna2NqVjFyNmpjTlNyWGFzbEFPMmxLd1ZZSmtRQzhMZXc5cHVTbWRMM05meERoMnI0TjVuQlZVQVlTK1JyUT09GAAgBCgEMIfDw+aFs/UCONuu///dL0CY4YLi5S9KHHJIanNUSW9ZWk8wc3c5SHl0VWV0WVBBVFdrST1aHyIdJWxER1dWN2FCNzNoclVHVzRiRTFldnQ3QUpDaz1lKNDhqRLsAQgTEucBChxvcnBwV3gvVTh4N1R6VEVlNjRldWZwWncrRU09EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXgvRW1YT0YwVDEwbnpPMmM4aitOM3VxY0E2RDlMaU5mKysvbHovV2xnKzIyUVZIT1N1clZGK1BGOE90RitvUFpZREtJVDVBPT0YACAEKAQwveidn7mz9QI4ysKK4uUvQPPczejlL0occmNsTkhyaUQyOHFacElpT01QZ2Zjc3M1bmhRPVofIh0WK3NFbWFyems3MnRKZW5KbmtiOWJESzhxRU1rPWUn2hVCEuwBCAoS5wEKHElxSDg1N2NhelROM3pVb0lvTFgvM05LbjFwWT0SZlo6QURxdEFaeXQ2R01OcERmOE9LblVKb2JCcnpJeGxTQThXd2x0REdUeHFmZDUyS2xhd0h6K2xiVmdRdUtrRWNCY05pR1llSjVoc2FDaEV1T1EySkFna0ZabGxvLy9KN05wZWc9PRgAIAQoBDCiqofohbP1Aji+xoql3i9AmfqC4uUvShxQQUhBTEdRd2ptSFR0RERnbjNDeStZMHJWbkE9Wh8iHThXdDR2d09WRU4zM2toNHRMWXdSMXNKc3poejg9ZeptC98S7AEIFBLnAQocM1RvMDJxTGRkSXRRcDE1Rm9TR284U2tlTXdjPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4cGJFK3VxWWdJUWtINW5JYnJSa2Q2U00xcG4zcm1NK05meFJFdG5rMXY3d292cWlVUWpTTGRBbDliYzZrMk1YNjYrejNadz09GAAgBCgEML3onZ+5s/UCOPGijuLlL0Dz3M3o5S9KHERObVdXcDdrb01IYlUvUitQNmcrbGtBYUJBbz1aHyIdGE9qVW5KNGNmYnE5S0pmRk4vc0NoMWszaXhzTT1lpp/d5hLsAQgLEucBChwyQTRIUkdMTzJRSjBaeGo5ZmtUWElCZzRMY1k9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhIOTdDLzJQQVpaWjZpT3hOWjgyQjlNemR5TDIwY3E3cFh6THh1NDFjUkoydmdQb1hoblRyNmFpYVo3Lzd6R1FPOE1UWDV3PT0YACAFKAUw6IvY44az9QI4/sSQpd4vQOTjkuLlL0ocZjZwZ3owcEhYb296SzczZWp2d3MvdmU0TVdJPVofIh0zbys2MkJmWVllQmdtREtxSGJVUkJEN1NlUFlVPWWbSKBWEsMBCAISvgEKHFljU1RvbnZFU1B3cUNzNEwyY3JWaHY2OEw5OD0SZlo6QURxdEFaeXpiOWJTTjdUYW9LWThFUXVEQkZaWDFqNXlRTTVTZmQzNGdjM2xHaXRlUy9mZE95S050eXowUllmN3BMWExEeDNIZlFqZE9lejBwek52a0ZabHkwTzFSWUx1ZWc9PRgAIAAoADD2o9GwqrL1AjgAQABKHG9QVmtod0JSYlY2NUtDV1IyK0lPTkhXb091OD1aAGUAAAAAEuwBCAYS5wEKHE4xaFhjQnIxdWQxZFNlSFZ4YlNkV1lzaGVzdz0SZlo6QURxdEFaeXQ2R01OcERmOE9LblVKb2JCcnpJeDN4QklFeHlkcktpMHZzaVRORTdGNWlOTTQyTyswS2tvV0tuWnc3TWgwVnBvTDBsNHE5S0Z0QmxJUWp3RkljeStVdzJzSWc9PRgAIA8oDzDA6p6tq7T1Ajj0najJ2y9A5KKb9+UvShwvMnd6R1JuQ0NpSzRjdzNZMzBSekx2aGs2bjA9Wh8iHesvd1FEc0JxRFNaT3NmYmFOT09TVHBRMEVCRU09ZQCLqlMS7AEIDBLnAQocVGRXQWdZZHJIbkcvYTFNeldEUGFJTmVzejBNPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4Y1ZaQWJTaVZSMVpRRUdYY3F6QWdobnpRRzRwRkhTbEtwazl2VHBZUkdJQmduN0lCaTJCQ24zdDJGM05NYjNtYURobzdlQT09GAAgBCgEMPfZxtyFs/UCONfymoDeL0DivYHi5S9KHFhxQU9GZ2FiTlgyVXAyTmN3NFJtanBwRWROdz1aHyId1nV6L1o2QUpQaVNBSHlQdFZ4Y1R4bmFxNm5IVT1lAAAAABLsAQgPEucBChw3a2pwZnlEWk5Gem9CSG9vd1lIeFRsbnQ4VFk9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXg1RXZ6NjY4V3ZZMURZdkUvMytOT0dWVHh5NEtQMm9MenpYcENHQkduSzVpQlJ4Zk9ZTDFpK2tBdG9udldsbHE1TkkydFlnPT0YACAEKAQwoJa61IWz9QI4/eya4eQvQIm5gOLlL0ocQ204RW9XSEdDbVN4aDcvWFM1bDVyMmt6Z1RZPVofIh2sNmhwZVBNZmU2ZEJUaXNVUjQ5T2NYZjFKMGZBPWU4+TkzEusBCA0S5gEKHGxxNHh5cWJJaDZFU05GbzNxbWNFc20rZXJFMD0SZlo6QURxdEFaeXQ2R01OcERmOE9LblVKb2JCcnpJeFU5MzRnYVA2VTdaNHBtelI0alJRbGhYamNENFUzUG0xaUVXek9CMm14UXpXY1BQZm9BSTRuMzNReHhwa084K3JVQ0tld2c9PRgAIAQoBDDl6+vRhbP1AjiW5Ied4S9Ano6A4uUvShxJZVY4YTJOTDI4U3ZOczZqK3BQK1NPdElnSzQ9Wh4iHDBlcm0rRnR5ckp1ejJhdmtaSEdYR3Fmbjh6RT1ldtEJAhLrAQgOEuYBChxJL3FHQnM1TDYyVURTdHI0cmVQc1BlcHpiRTA9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhvMm1NZ05CbHVQcHM2cHd4ZWRFbWk2UG80NzR1RWdkc3lKZUFFTzVrbVVHVkptUE5mM2loVVlUTHlIdWpYK1dHUVNsM1VBPT0YACAEKAQw0/+E04Wz9QI4sfuA8eEvQPahgOLlL0oceWx4NXVRaGlYNTJaZ2NWdnd5WHEzUXpRem00PVoeIhxYZHREMHZRRFUzVzdaTVNkVDFpQmlNWEUrbms9ZSZe9N0S7AEIERLnAQocQ0xKMnA1V2hqWU05SnVIUlNUdnVtZkt1SjFrPRJmWjpBRHF0QVp5dDZHTU5wRGY4T0tuVUpvYkJyekl4UnpuUWpEVEZ3aHRGbDhsVlgxWjdJdHU4L3F3QzFlTVJCZmlRZjR3QXl3anUxVTd0YTVaUWdYWStQRDZMeERaK3Y4OHhiQT09GAAgASgBMN3egc+Fs/UCOL3f/+HlL0C93//h5S9KHGFHN2w3eC9KVGZxUzJ5ZjRLRGFKRVdHM1poND1aHyId/2VzUGpsbkNyMkVNZ21ISUJqUWhkaHo1U1FlND1lAAAAABLsAQgSEucBChxGaUNnd2Z6Vy9mVTZubjdGK28vNmNmUjV4OTQ9EmZaOkFEcXRBWnl0NkdNTnBEZjhPS25VSm9iQnJ6SXhtMENVRml5WDVmWnJSVWgwdlZaSXA2Mi9CaVRDc2ZteThwbGR4aEswRDJJQ09iaWhLdHRwMDBhMDI4OVMxTDA1eTR0RWhnPT0YACAFKAUwveidn7mz9QI4lsyF4uUvQPPczejlL0ocTm9DZUIwdzgyWjlsNEJJMWVVVzRBTDR3Q3BRPVofIh0ScjNQbmRhZjdzbjB6eVcvSmg5akpzazExa25jPWXVUtvxIPSuofjlLzAB",
+   "version": 1
+}

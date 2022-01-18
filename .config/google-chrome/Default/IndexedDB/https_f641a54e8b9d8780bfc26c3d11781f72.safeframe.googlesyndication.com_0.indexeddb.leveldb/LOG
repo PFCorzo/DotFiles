@@ -1,0 +1,6 @@
+2022/01/16-16:38:16.044 70a4 Creating DB /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_f641a54e8b9d8780bfc26c3d11781f72.safeframe.googlesyndication.com_0.indexeddb.leveldb since it was missing.
+2022/01/16-16:38:16.052 70a4 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_f641a54e8b9d8780bfc26c3d11781f72.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/16-16:38:45.190 5eba Level-0 table #5: started
+2022/01/16-16:38:45.192 5eba Level-0 table #5: 480 bytes OK
+2022/01/16-16:38:45.194 5eba Delete type=0 #3
+2022/01/16-16:38:45.194 5eba Manual compaction at level-0 from (begin) .. (end); will stop at (end)

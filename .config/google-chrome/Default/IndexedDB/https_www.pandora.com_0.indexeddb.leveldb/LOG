@@ -1,0 +1,12 @@
+2022/01/17-18:12:13.793 8479 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_www.pandora.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/17-18:12:13.793 8479 Recovering log #63
+2022/01/17-18:12:13.798 8479 Reusing old log /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_www.pandora.com_0.indexeddb.leveldb/000063.log 
+2022/01/17-18:12:49.455 7dbd Level-0 table #68: started
+2022/01/17-18:12:49.472 7dbd Level-0 table #68: 915752 bytes OK
+2022/01/17-18:12:49.474 7dbd Delete type=0 #63
+2022/01/17-18:14:06.459 9a40 Compacting 1@1 + 1@2 files
+2022/01/17-18:14:06.465 9a40 Generated table #69@1: 79 keys, 13276 bytes
+2022/01/17-18:14:06.465 9a40 Compacted 1@1 + 1@2 files => 13276 bytes
+2022/01/17-18:14:06.466 9a40 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/17-18:14:06.467 9a40 Delete type=2 #68
+2022/01/17-18:14:06.467 9a40 Delete type=2 #65

@@ -1,0 +1,27 @@
+2022/01/17-13:02:49.275 19d3 Creating DB /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_support.pearson.com_0.indexeddb.leveldb since it was missing.
+2022/01/17-13:02:49.278 19d3 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_support.pearson.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/17-13:02:50.876 1b4d Level-0 table #5: started
+2022/01/17-13:02:50.878 1b4d Level-0 table #5: 192239 bytes OK
+2022/01/17-13:02:50.880 1b4d Delete type=0 #3
+2022/01/17-13:02:50.880 1b4d Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/01/17-13:02:52.851 1966 Level-0 table #7: started
+2022/01/17-13:02:52.866 1966 Level-0 table #7: 1490479 bytes OK
+2022/01/17-13:02:52.868 1966 Delete type=0 #4
+2022/01/17-13:02:52.869 1966 Compacting 1@1 + 1@2 files
+2022/01/17-13:02:52.885 1966 Generated table #8@1: 2464 keys, 1303279 bytes
+2022/01/17-13:02:52.885 1966 Compacted 1@1 + 1@2 files => 1303279 bytes
+2022/01/17-13:02:52.886 1966 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/17-13:02:52.887 1966 Delete type=2 #7
+2022/01/17-13:02:52.887 1966 Delete type=2 #5
+2022/01/17-14:55:05.975 224a Level-0 table #10: started
+2022/01/17-14:55:05.994 224a Level-0 table #10: 1137884 bytes OK
+2022/01/17-14:55:05.997 224a Delete type=0 #6
+2022/01/17-14:55:05.997 224a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/01/17-14:55:05.997 224a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01\x1f\x03\x00`&\xd5P!xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 9710 : 0
+2022/01/17-14:55:05.997 224a Compacting 1@1 + 1@2 files
+2022/01/17-14:55:06.017 224a Generated table #11@1: 2266 keys, 1905372 bytes
+2022/01/17-14:55:06.017 224a Compacted 1@1 + 1@2 files => 1905372 bytes
+2022/01/17-14:55:06.019 224a compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/01/17-14:55:06.019 224a Delete type=2 #10
+2022/01/17-14:55:06.019 224a Delete type=2 #8
+2022/01/17-14:55:06.019 224a Manual compaction at level-1 from '\x00\x07\x01\x1f\x03\x00`&\xd5P!xB\x00\x01\x0d\x00c\x00r\x00y\x00p\x00t\x00o\x00a\x00d\x00a\x00p\x00t\x00e\x00r' @ 9710 : 0 .. (end); will stop at (end)

@@ -1,0 +1,6 @@
+2022/01/15-09:29:24.623 23a5 Creating DB /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2022/01/15-09:29:24.626 23a5 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/15-09:58:08.916 27e0 Level-0 table #5: started
+2022/01/15-09:58:08.929 27e0 Level-0 table #5: 858391 bytes OK
+2022/01/15-09:58:08.932 27e0 Delete type=0 #3
+2022/01/15-09:58:08.932 27e0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

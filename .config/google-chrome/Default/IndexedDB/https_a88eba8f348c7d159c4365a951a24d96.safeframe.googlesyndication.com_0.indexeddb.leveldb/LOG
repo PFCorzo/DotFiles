@@ -1,0 +1,7 @@
+2022/01/16-21:45:31.742 4253 Reusing MANIFEST /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_a88eba8f348c7d159c4365a951a24d96.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/01/16-21:45:31.742 4253 Recovering log #3
+2022/01/16-21:45:31.742 4253 Reusing old log /home/pfcorzo/.config/google-chrome/Default/IndexedDB/https_a88eba8f348c7d159c4365a951a24d96.safeframe.googlesyndication.com_0.indexeddb.leveldb/000003.log 
+2022/01/16-21:46:47.418 42ac Level-0 table #5: started
+2022/01/16-21:46:47.419 42ac Level-0 table #5: 460 bytes OK
+2022/01/16-21:46:47.421 42ac Delete type=0 #3
+2022/01/16-21:46:47.421 42ac Manual compaction at level-0 from (begin) .. (end); will stop at (end)
